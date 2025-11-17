@@ -1,8 +1,9 @@
 {
+  "id": "https://cw-rail.figma.site/app-bigscreen",
   "name": "CW Rail – Big Screen",
   "short_name": "Big Screen",
-  "start_url": "/bigscreen",
-  "scope": "/bigscreen",
+  "start_url": "https://cw-rail.figma.site/bigscreen",
+  "scope": "https://cw-rail.figma.site/bigscreen",
   "display": "standalone",
   "orientation": "landscape",
   "background_color": "#000000",

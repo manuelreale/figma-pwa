@@ -1,22 +1,23 @@
 {
-    "name": "CW Rail",
-    "short_name": "CW Rail",
-    "start_url": "/",
-    "scope": "/",
-    "display": "standalone",
-    "orientation": "landscape",
-    "background_color": "#000000",
-    "theme_color": "#000000",
-    "icons": [
-      {
-        "src": "https://manuelreale.github.io/figma-pwa/icon-192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "https://manuelreale.github.io/figma-pwa/icon-512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
-  }
+  "id": "https://cw-rail.figma.site/app-main",
+  "name": "CW Rail",
+  "short_name": "CW Rail",
+  "start_url": "https://cw-rail.figma.site/",
+  "scope": "https://cw-rail.figma.site/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://manuelreale.github.io/figma-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://manuelreale.github.io/figma-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
